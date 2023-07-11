@@ -1,0 +1,6 @@
+Semangat belajar coding
+bahasa pemrograman yang diminati
+-javascript
+-phyon
+-c++
+-php
